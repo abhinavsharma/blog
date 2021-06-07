@@ -12,7 +12,7 @@ We build [Insight Browser](https://insightbrowser.com), it is in our honest opin
 - Did we think it was possible at any time? Yes. 
 - Were we prepared? I think so, but it's definitely not Plan A.
 
-To take a short break from this, I went over to Hacker News only to find [How Replit used legal threats to kill my open-source project](https://intuitiveexplanations.com/tech/replit/) on the top spot. In particular,I was surprised to see this quote from the CEO of a modern software company.
+To take a short break from this, I went over to Hacker News only to find [How Replit used legal threats to kill my open-source project](https://intuitiveexplanations.com/tech/replit/) on the top spot. In particular, I was surprised to see this quote from the CEO of a modern software company.
 
 > __I think you should take it down and stop working on it. I'll be engaging our lawyers on Monday if it's still up by then. ____[...]____ We were a tiny company when you interned with us ____[...]____ Luckily we're bigger now, and crucially have a lot of money to pay for top lawyers now if we're forced to go that route.__
 
@@ -54,7 +54,7 @@ Zero to One popularized the notion that competition is for losers, so the new ga
 
 This is Economics 101. If there's no competition then over time, pricing for successful tools escalates, especially if their primary funding comes from B2B sales.
 
-Here's a few **tools I absolutely love** to use and am a happy paying customer for, but their functionality is fairly commoditized and their prices are relatively high for their complexity.
+Here's a few **tools I absolutely love** to use and am a happy paying customer for, but their functionality is fairly commoditized at this point and their prices are relatively high for their complexity.
 
 - Calendly: $10/month
 - Roam: $15/month
@@ -64,17 +64,17 @@ Here's a few **tools I absolutely love** to use and am a happy paying customer f
 1. Do I think these prices justify the value I get from them? Yes.
 2. Do my costs add up when you use dozens of SaaS tools? Yes
 3. At their current level of success, would these products cost anywhere near what they charge to build and operate? No.
-4. As a user, would I prefer to pay the same amount to fund an open-source clone? Yes, because I want to protect myself against price hikes and unwanted functionaliy changes.
+4. As a user, would I prefer to pay the same amount to fund an open-source clone? Yes, because I want to protect myself against price hikes and unwanted functionality changes.
 5. Would these products and the ideas behind them have had their current level of success without a healthy cash balance early on in their lives? 
 
 **Well, that's the hard one, isn't it**
 
 ## But will how will early ideas get enough funding to be iterated on?
-First, to put aside any sense of unfairness towards venture funded companies, VCs at every stage already fund adjusting for projected defensibility. "What's your moat?" is (almost) every VC's first question and their estimation adjusts for your defensibility model. They know what they're getting into re. defensibility  and so do the founders who are fundraising.
+First, to put aside any sense of unfairness towards venture funded companies, VCs at every stage already fund adjusting for projected defensibility. "What's your moat?" is (almost) every VC's first question and their estimation adjusts for your defensibility model. They know what they're getting into re. defensibility risk and so do the founders who are fundraising.
 
 Newer models like Github funding, Patreon, and the Open Collective are increasingly viable alternatives in solving the collective action problem of raising funds for software that was previously only fundable by venture.
 
-Moreover, projects like Athens are demonstrating that even hybrids are possible — [Athens' $1.9M Seed Round, led by Caffeinated Capital (athens-research.ghost.io)](https://athens-research.ghost.io/athens-1-9m-seed-round-led-by-caffeinated-capital/).
+Moreover, projects like Athens are demonstrating that hybrids funding models are also possible — [Athens' $1.9M Seed Round, led by Caffeinated Capital (athens-research.ghost.io)](https://athens-research.ghost.io/athens-1-9m-seed-round-led-by-caffeinated-capital/).
 
 ## Some takeaways to chew on
 
