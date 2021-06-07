@@ -6,7 +6,7 @@ title: In defense of software copycats, as someone who got scooped
 
 To cut to the chase, this is a story about why we should stop trying to fight copycats because they are both inevitable and healthy. Two interesting things happened today that made me think of this deeply.
 
-First, we build [Insight Browser](https://insightbrowser.com), it is in our honest opinion the first powerful truly extensible browser for iOS. We built it because after years of waiting for more powerful iOS web browsers but not seeing it happen, we thought there was a market there and went for it. We've put a lot of blood, sweat and tears into it. Today at WWDC, Safari announced extensions for iOS.
+We build [Insight Browser](https://insightbrowser.com), it is in our honest opinion the first powerful truly extensible browser for iOS. We built it because after years of waiting for more powerful iOS web browsers but not seeing it happen, we thought there was a market there and went for it. We've put a lot of blood, sweat and tears into it. Today at WWDC, Safari announced extensions for iOS.
 
 - Does it suck to see the nature of your market change overnight? Yes.
 - Did we think it was possible at any time? Yes. 
