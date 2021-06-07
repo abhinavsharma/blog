@@ -81,5 +81,5 @@ Moreover, projects like Athens are demonstrating that hybrids funding models are
 
 - In the long term, ideas, technology and UI design just aren't very defensible in the way network effects, regulatory capture and control of capital markets is.
 - Nevertheless, it's still worth building software that many people want and like because defensibility is often established after-the-fact in a bundling play to become a network or through the establishment of your brand.
-- And yes, there are casualties and yes it can feel horrible to be copied, especially by someone with more resources, but you know that's what you're signing up for if you're starting a software company.
+- And yes, there are casualties and yes it can feel horrible to be scooped, deliberately or not, especially by someone with more resources, but you know that's what you're signing up for if you're starting a software company.
 - This is one of those questions where there's no easy right answer, but people's positions usually very directly map to their company's current market position.
