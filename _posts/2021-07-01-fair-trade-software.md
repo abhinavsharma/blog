@@ -12,4 +12,4 @@ This is a list of software that I consider to be fairly priced for the user, con
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrB4Q47BTuAl7sXX?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-You can add to this list by using this [form](https://airtable.com/shr6VIRHr48Fsao9p).
+You can add to this list by using this [form](https://airtable.com/shr6VIRHr48Fsao9p). I don't have a financial interest in any software except Insight and Quora, neither of which falls into any category listed here.
